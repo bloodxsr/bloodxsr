@@ -1,5 +1,5 @@
 # About Me
-Vibe Coder | Problem Creator | Solution Finder
+**Vibe Coder | Problem Creator | Solution Finder**
 
 Welcome to my corner of GitHub! Ignore the username—it seemed like a good idea at the time, but we’re all living with our past commits, right?
 
@@ -23,13 +23,13 @@ Tech Stack: Python, Machine Learning frameworks, and a lot of caffeine.
 ---
 
 ## Quick Stats
-Favorite Activity: Messing up code so badly that the fix feels like a miracle.
+**Favorite Activity:** Messing up code so badly that the fix feels like a miracle.
 
-Learning Style: Hands-on, trial-by-fire, and high-tempo music.
+**Learning Style:** Hands-on, trial-by-fire, and high-tempo music.
 
-Open to: Collaboration once my current repo hits the public feed!
+**Open to:** Collaboration once my current repo hits the public feed!
 
-"I don't always find the error on the first try, but when I do, the code is usually too good to be true."
+`I don't always find the error on the first try, but when I do, the code is usually too good to be true.`
 
 ---
 
