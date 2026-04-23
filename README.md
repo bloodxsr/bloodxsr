@@ -11,14 +11,14 @@ Vibe Coding: Deep-diving into experimental logic where I learn the most by break
 
 ---
 
-## Current Focus: Financial AI Insights
-I’m currently building an AI-driven financial services platform. The goal is to democratize investment data by shifting the focus from "expert" opinions to autonomous trend analysis.
+## Current Focus: NexU Campus OS
+I’m currently building a premium, high-performance college ERP platform. The goal is to democratize institutional management by shifting the focus from administrative overhead to autonomous campus operations.
 
-Status: Private Beta (Moving to Public soon!)
+**Status:** Public (Official Release Coming Soon!)
 
-Mission: Empowering investors to rely on historical data and AI insights rather than external noise.
+**Mission:** Empowering educational institutions to rely on high-throughput data and sleek, modern interfaces rather than legacy, fragmented systems.
 
-Tech Stack: Python, Machine Learning frameworks, and a lot of caffeine.
+**Tech Stack:** Rust (Axum), ScyllaDB, Postgre, React, and a lot of caffeine.
 
 ---
 
