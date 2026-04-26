@@ -9,6 +9,8 @@ Standard Coding: Building structured, functional software.
 
 Vibe Coding: Deep-diving into experimental logic where I learn the most by breaking things spectacularly.
 
+my portfolio: [portfolio](https://port-nine-lyart.vercel.app/)
+
 ---
 
 ## Current Focus: NexU Campus OS
