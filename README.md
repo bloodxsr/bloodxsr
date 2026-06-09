@@ -13,17 +13,6 @@ my portfolio: [portfolio](https://port-nine-lyart.vercel.app/)
 
 ---
 
-## Current Focus: NexU Campus OS
-I’m currently building a premium, high-performance college ERP platform. The goal is to democratize institutional management by shifting the focus from administrative overhead to autonomous campus operations.
-
-**Status:** Public (Official Release Coming Soon!)
-
-**Mission:** Empowering educational institutions to rely on high-throughput data and sleek, modern interfaces rather than legacy, fragmented systems.
-
-**Tech Stack:** Rust (Axum), ScyllaDB, Postgre, React, and a lot of caffeine.
-
----
-
 ## Quick Stats
 **Favorite Activity:** Messing up code so badly that the fix feels like a miracle.
 
